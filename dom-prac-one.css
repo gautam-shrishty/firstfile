@@ -1,0 +1,54 @@
+body{
+	margin-top: 0;
+	margin: 0;
+	padding: 0;
+}
+#page-banner{
+	
+	margin: 0;
+	padding: 0;
+	background-color: #BDC6C5;
+}
+.title{
+	margin-top: 0;
+	text-align: center;
+	padding: 10px;
+}
+p{
+text-align: center;
+}
+
+#search-books{
+	padding: 10px;
+	text-align: center;
+}
+
+input{
+	
+	width: 380px;
+	height: 30px;
+}
+.name{
+
+}
+.delete{
+	background-color: #8657B1;
+	border-radius: 20%;
+	width: 80px;
+	height: 20px;
+}
+/*.my-shape{
+	transition: all 1.5s;
+}
+svg:hover .my-shape{
+	fill: blue;
+	transform: scale(0.9);
+} */
+.blue-eye .eye-color{
+	fill: blue;
+}
+.sad .mouth{
+	transform: rotate(180deg)scale(0.8);
+	transform-origin: 363px 394px;
+}
+
